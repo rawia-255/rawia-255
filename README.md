@@ -20,3 +20,9 @@ A mobile marketing app for solar & wind energy systems (Graduation Project)
 ### 📫 Connect with me:
 hrawia255@gmail.com
 
+## 🌐 My Projects
+
+### 🎨 Art Gallery Website (HTML & CSS)
+A simple responsive art gallery webpage designed using basic HTML and CSS.
+
+🔗 [View Project on GitHub](https://github.com/rawia-255/rawia-web-project)
